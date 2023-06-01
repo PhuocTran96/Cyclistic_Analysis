@@ -237,7 +237,7 @@ There is no denying that data visualization and charting capabilities in R are p
      style="display: block; margin-right: auto; margin-left: auto; width: 90%;
      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)" />
 
-# Visualization tool: Miscrosoft Power BI (PBI)
+# Analysis and Viz: Miscrosoft Power BI (PBI)
 
 I choose Power BI instead of Tableau for the visualization phase because I have worked with Power BI extensively. I am already familiar with its interface, table relationships and the DAX language (although only at a basic level) for calculations. While Tableau is a good visualization tool, in my opinion, Power BI will continue to gain popularity as the Microsoft Ecosystem expands significantly. Now let's proceed to the analysis and share phase:
 
@@ -336,7 +336,7 @@ I choose Power BI instead of Tableau for the visualization phase because I have 
      style="display: block; margin-right: auto; margin-left: auto; width: 90%;
      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)" />
      
-# SUMMARY:
+# Conclusion and Recommendations
 
 1. Enhance the bike rental service for casual users: The company can increase advertising efforts and offer promotional campaigns to attract new customers, such as discounted rates for the first hour or day, providing special packages for tourists or event participants.
 
